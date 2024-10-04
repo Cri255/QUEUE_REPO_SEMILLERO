@@ -1,0 +1,28 @@
+
+        body {
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            text-align: center;
+        }
+        form {
+            text-align: center;
+            margin-top: 20px;
+        }
+        #tasks {
+            margin-top: 30px;
+            width: 300px;
+            margin: 0 auto;
+        }
+        #tasks ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        #tasks ul li {
+            padding: 10px;
+            background-color: #f0f0f0;
+            margin-bottom: 5px;
+            border-radius: 4px;
+            display: flex;
+            justify-content: space-between;
+        }
